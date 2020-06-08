@@ -84,7 +84,7 @@ body.wider .c13 {width:1180px;}
 #mainmenu > ul {margin-top: 6px !important;}
 #mainmenu ul { border-top: 2px solid #a80329; border-bottom: 2px solid #a80329; background: #ffffff; height: 27px; list-style: none; margin: 0; padding: 0;}
 #mainmenu li { float: left; padding-left: 15px; padding-right: 15px;}
-#mainmenu li a { color: #b81c40; display: block; font-size: 13pt; line-height: 27px; padding: 0px 33px; text-align: center; text-decoration: none; }
+#mainmenu li a { color: #b81c40; display: block; font-size: 13pt; line-height: 27px; padding: 0px 30px; text-align: center; text-decoration: none; }
 #mainmenu li a:hover {color: #000000; text-decoration: none;}
 #mainmenu li:hover > ul {display: block;}
 #mainmenu li a.selected  { background: #a80329; box-shadow: 0 4px 0 #a80329, 0 4px 0 #b81c40, 0 -4px 0 #a80329; color: white;}
