@@ -83,7 +83,7 @@ body.wider .c13 {width:1180px;}
 #mainmenu {border: none; border: 0px; margin: 0px; padding: 0px; font-size: 14px; color: #a80329; width: 100%;}
 #mainmenu > ul {margin-top: 6px !important;}
 #mainmenu ul { border-top: 2px solid #a80329; border-bottom: 2px solid #a80329; background: #ffffff; height: 27px; list-style: none; margin: 0; padding: 0;}
-#mainmenu li { float: left; padding-left: 30px; padding-right: 15px;}
+#mainmenu li { float: left; padding-left: 15px; padding-right: 15px;}
 #mainmenu li a { color: #b81c40; display: block; font-size: 13pt; line-height: 27px; padding: 0px 33px; text-align: center; text-decoration: none; }
 #mainmenu li a:hover {color: #000000; text-decoration: none;}
 #mainmenu li:hover > ul {display: block;}
